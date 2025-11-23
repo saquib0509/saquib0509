@@ -3,7 +3,7 @@ I enjoy building efficient, reusable backend solutions and intuitive frontend in
 
 - 🎓 **B.Tech in Electronics & Communication Engineering** from Ramaiah Institute of Technology, Bengaluru.  
 - 💼 Experience in **Java Development, Frontend Engineering, and API Integration**.  
-- 🛠 Skilled in **JDBC, Collections, File Handling, REST APIs, and Enterprise Backend Modules**.  
+- 🛠 Skilled in **Full Stack, Java, SpringBoot, REST APIs, and Enterprise Backend Modules**.  
 - 📚 Always exploring **new technologies** and contributing to open-source projects.  
 
 **Goal:** To create impactful software solutions that solve real-world problems.
